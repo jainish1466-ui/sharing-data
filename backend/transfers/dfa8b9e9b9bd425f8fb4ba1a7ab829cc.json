@@ -1,0 +1,21 @@
+{
+    "transfer_id": "dfa8b9e9b9bd425f8fb4ba1a7ab829cc",
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "files": [
+        {
+            "index": 0,
+            "name": "1F1A9392.MP4",
+            "size": 40687264,
+            "total_chunks": 2,
+            "uploaded_chunks": [],
+            "completed": false
+        }
+    ],
+    "created_at": "2026-08-19T22:24:45.442171",
+    "expires_at": "2026-08-20T01:24:45.442171",
+    "max_receivers": 3,
+    "receiver_count": 0,
+    "max_downloads": 3,
+    "download_count": 0,
+    "completed": false
+}
